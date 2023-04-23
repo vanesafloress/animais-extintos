@@ -1,0 +1,34 @@
+.um {
+	color: #7FD991;
+	text-shadow: #62A66F 2px 2px 2px;	
+	font-family: cooper;
+	font-size: 40px;
+	widht: 300px;
+	border-top: 14px solid #7FD991;
+	border-left: 2px solid #7FD991;
+	padding-left: 5px;
+	text-align: center;
+	margin-left: 20px;
+}
+.container img{
+	widht: 300px;
+	float: left
+}
+.img {
+	display: flex;
+	align: center;
+}
+.dois {
+	font-size: 18px;
+	font-family: arial;
+	display: table;
+	margin-top: 60px;
+}
+h2 {
+	font-size: 30px;
+	color: #458C53;
+	font-family: cooper;
+}
+#interface {
+	margin-left: 20px
+}
